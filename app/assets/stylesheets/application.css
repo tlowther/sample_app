@@ -11,3 +11,11 @@
  *= require_self
  *= require_tree .
 */
+
+h1 {
+	color: blue;
+}
+
+h1.secondary {
+	color: blue;
+}
